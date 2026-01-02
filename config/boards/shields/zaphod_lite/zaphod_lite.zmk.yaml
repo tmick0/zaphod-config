@@ -1,0 +1,10 @@
+file_format: "1"
+id: zaphod_lite
+name: Zaphod lite
+type: shield
+requires:
+  - seeeduino_xiao_ble
+features:
+  - keys
+siblings:
+  - zaphod_lite
